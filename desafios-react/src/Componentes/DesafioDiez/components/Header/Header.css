@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: #fbbc02;
+  padding: 10px 20px 20px 20px;
+}
+
+.logo {
+  width: 150px;
+  height: 50px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.espacio {
+  margin-right: 20px;
+}

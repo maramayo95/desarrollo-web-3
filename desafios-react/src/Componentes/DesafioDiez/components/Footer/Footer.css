@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+/* posicionamos la letra del centro */
+.position {
+  position: relative;
+  bottom: 200px;
+  font-weight: bold;
+}
+
+ul li {
+  list-style: none;
+}
+
+footer {
+  width: 98%;
+}
+
+.division {
+  border-right: solid 1px rgb(204, 204, 204);
+}
